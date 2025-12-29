@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Intereses de Demora",
+  "description": "Aplicación para el cálculo de intereses de demora en reintegros de subvenciones, con gestión de tipos de interés anuales y desglose detallado.",
+  "requestFramePermissions": []
+}
